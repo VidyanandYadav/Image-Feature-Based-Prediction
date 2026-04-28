@@ -27,10 +27,7 @@ st.markdown("""
         <h3 style='color:white;text-align:center;margin:0;font-size:20px'>
             🖼️ Image Feature-Based Prediction using Linear Regression
         </h3>
-        <p style='color:#c5cae9;text-align:center;margin:5px 0 0 0;font-size:13px'>
-            
-           
-        </p>
+       
     </div>
 """, unsafe_allow_html=True)
 
