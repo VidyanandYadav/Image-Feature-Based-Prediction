@@ -1,6 +1,6 @@
 """
 app.py — Streamlit UI for Image Feature-Based Prediction using Linear Regression
-Authors: Vidyanand Yadav & Ayush Maurya | B.Tech CSE | CSJMU Kanpur
+
 """
 
 import os
