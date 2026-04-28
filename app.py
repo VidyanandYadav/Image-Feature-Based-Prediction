@@ -28,9 +28,8 @@ st.markdown("""
             🖼️ Image Feature-Based Prediction using Linear Regression
         </h3>
         <p style='color:#c5cae9;text-align:center;margin:5px 0 0 0;font-size:13px'>
-            Vidyanand Yadav (CSJMA23001390066) &nbsp;|&nbsp;
-            Ayush Maurya (CSJMA23001390059) &nbsp;|&nbsp;
-            B.Tech CSE 3rd Year &nbsp;|&nbsp; CSJMU Kanpur
+            
+           
         </p>
     </div>
 """, unsafe_allow_html=True)
