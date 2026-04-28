@@ -8,10 +8,6 @@ machine learning (Scikit-learn) — a practical example of feature engineering.
 
 ---
 
-
-
----
-
 ## 🌐 Live Demo
 
 🚀 Experience the application live:  
