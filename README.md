@@ -8,6 +8,20 @@ machine learning (Scikit-learn) — a practical example of feature engineering.
 
 ---
 
+
+
+---
+
+## 🌐 Live Demo
+
+🚀 Experience the application live:  
+
+👉 [Launch Streamlit App](https://image-feature-based-prediction-d5uecvhexyzhxlcfj4t2j5.streamlit.app/)
+
+> Click the link above to open the deployed app and try image-based predictions in real time.
+
+---
+
 ## Technologies Used
 | Library       | Purpose                                      |
 |---------------|----------------------------------------------|
@@ -80,19 +94,4 @@ python main.py
 
 ---
 
-## Viva Preparation — Key Points
 
-**Q: What is Linear Regression?**
-A: A supervised ML algorithm that models the relationship between input features (X) and a continuous output (y) by fitting a straight line: y = mX + b.
-
-**Q: Why use brightness and edges as features?**
-A: Brightness captures the overall light intensity of an image, while edge count reflects structural complexity. Both are simple, interpretable features derived directly from pixel data.
-
-**Q: What does Canny edge detection do?**
-A: It applies Gaussian smoothing, gradient calculation, and hysteresis thresholding to identify sharp intensity transitions (edges) in an image.
-
-**Q: What is R² score?**
-A: It measures how well the model explains the variance in the target variable. R² = 1.0 means perfect prediction; closer to 1 is better.
-
-**Q: Why simulate a "price" target?**
-A: Real image-price datasets (e.g., real estate photos) require large labeled datasets. The formula simulates that relationship so we can demonstrate the full ML pipeline without external data.
